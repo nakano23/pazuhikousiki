@@ -36,7 +36,7 @@ if (version_compare(PHP_VERSION, '5.1.0', '>=')) {//PHP5.1.0以上の場合の�
 $site_top = "http://pazuhikousiki.ciao.jp/index.html";
 
 // 管理者メールアドレス ※メールを受け取るメールアドレス(複数指定する場合は「,」で区切ってください 例 $to = "aa@aa.aa,bb@bb.bb";)
-$to = "kirisame75@yahoo.co.jp";
+$to = "kirisame775@yahoo.co.jp";
 
 //フォームのメールアドレス入力箇所のname属性の値（name="○○"　の○○部分）
 $Email = "Email";
